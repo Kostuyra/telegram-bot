@@ -1,6 +1,6 @@
 -- liquibase formatted sql
 
---changeset golikovk1: create_notification_task
+--changeset author: golikovk1 create_notification_task
 CREATE TABLE notification_task
 (
     id BIGINT PRIMARY KEY,
